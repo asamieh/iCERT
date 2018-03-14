@@ -1,6 +1,16 @@
 # iCERT
 iCERT Case Status Check
 
+Automating the scanning for the Prevailing wage detirmination status from iCERT website
+
+I started the original code http://www.trackitt.com/usa-discussion-forums/atlanta-perm/664488317/prevailing-wage-processing-time/page/185 #4617
+
+Another member enhanced the script by using the cookies from the browser inside the script
+
+http://www.trackitt.com/usa-discussion-forums/atlanta-perm/664488317/prevailing-wage-processing-time/page/186 #4628
+
+my current version http://www.trackitt.com/usa-discussion-forums/atlanta-perm/664488317/prevailing-wage-processing-time/page/192 #4784
+
 steps to get the cookies from chrome
 ------------------------------------
 - open https://icert.doleta.gov/ in chrome 
